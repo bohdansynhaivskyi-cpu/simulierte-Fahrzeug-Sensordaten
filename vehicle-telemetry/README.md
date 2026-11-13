@@ -177,13 +177,6 @@ Anteil an Anomalien (`contamination`) schätzen.
 - **GitHub Actions** einrichten, die bei jedem Push automatisch `pytest` ausführt
 - Mit einem **öffentlichen Datensatz** statt Simulation testen
 
-## Was ich dabei gelernt habe
-
-> ✏️ **Diesen Abschnitt vor dem Hochladen in eigenen Worten schreiben.** Zum Beispiel:
-> was neu war (SQL, scikit-learn, Tests), was schwierig war und wie ich es gelöst habe,
-> was ich beim nächsten Mal anders machen würde.
-
 ---
 
 *Unabhängiges Lernprojekt mit simulierten Daten, keine Verbindung zu einem Fahrzeughersteller.*
-*Autor: [Dein Name]*
